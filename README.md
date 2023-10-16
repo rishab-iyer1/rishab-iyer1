@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rishab-iyer1
-- 👀 I’m interested in neuroscience research 
-- 🌱 I’m currently studying Computational Neuroscience at USC
-- 💞️ I’m looking to improve my programming skills
+- 🌱 I’m currently studying Computational Neuroscience and AI at USC
+-  👀 I’m applying to PhD programs in neuroscience for Fall 2024 admission
 - 📫 How to reach me: rsiyer@usc.edu
 
 <!---
