@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishab-iyer1
 - 📚 I’m currently a research specialist in [Ken Norman's lab](https://compmem.princeton.edu) at Princeton where I am working on real-time reconstruction of visual perception from fMRI.
-- ✌ I graduated from the University of Southern California, where I studied Computational Neuroscience with a minor in Artificial Intelligence Applications.
+- ✌ I graduated from the University of Southern California in May 2024, where I studied Computational Neuroscience with a minor in Artificial Intelligence Applications.
 - 📫 Please reach out to me using my email: rsiyer@princeton.edu
 
 <!---
